@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(20, 141, 141);
+}
+
+main{
+    background-color: blanchedalmond;
+    width: 500px;
+    margin: inherit;
+}
